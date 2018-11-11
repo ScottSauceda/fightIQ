@@ -1,0 +1,323 @@
+body {
+
+}
+
+.container {
+
+}
+
+main {
+
+}
+
+main p {
+
+}
+
+main img {
+
+}
+
+main li {
+   
+}
+
+main a, main a:visited {
+ 
+}
+
+main a:hover {
+
+}
+
+aside {
+
+}
+
+aside ul li {
+
+}
+
+aside img {
+
+}
+
+aside a:link {
+   
+   
+}
+
+aside a:visited {
+
+}
+
+aside a:hover {
+   
+}
+
+/* ###### header.php ####### */
+
+header {
+  
+}
+
+header h1 {
+ 
+}
+
+
+#join-login {
+
+}
+
+#join-login li {
+   
+}
+
+#join-login a, #join-login visited {
+
+}
+
+#join-login a:hover {
+    
+}
+
+
+/*########## nav.php ######## */
+
+nav {
+
+}
+
+nav ul li {
+ 
+}
+
+nav a:link {
+
+}
+
+nav a:visited {
+   
+}
+
+nav a:hover {
+    
+}
+
+.burger {
+/*    background-color: white;*/
+
+}
+
+.burger:hover {
+ 
+}
+
+.burger-line {
+
+}
+
+/*######## footer.php ###########*/
+
+footer {
+
+}
+
+
+footer a:link {
+
+}
+
+/*######## index.php ###########*/
+
+
+#index a, #index a:visited {
+  
+}
+
+#index a:hover {
+  
+}
+
+#indexAside a {
+    
+}
+
+#indexAside a:hover {
+   
+}
+
+/*######## boxing.php/mma.php ##########*/
+
+#boxing-mma {
+
+}
+
+#boxing-mma img {
+  
+}
+
+#boxing-mma-aside {
+   
+}
+
+#boxing-mma-aside a {
+    
+}
+
+/* ####### boxing-articles.php ########### */
+
+#boxing-mma-articles {
+   
+}
+
+#boxing-mma-articles li {
+   
+}
+
+#boxing-mma-articles img {
+ 
+}
+
+/*########### events.php #########*/
+
+#events {
+
+}
+
+/*########## ranks.php ###########*/
+
+#rankContainer {
+
+}
+
+#ranksMain {
+   
+}
+
+#ranksMain li {
+    
+}
+
+#ranksAside {
+ 
+}
+
+
+
+.ranks h3 {
+ 
+}
+
+.ranks h4 {
+  
+}
+
+.ranks li {
+/*    list-style-type: none;*/
+
+}
+
+
+/*########## contact.php ##########*/
+
+#contactForm{
+ 
+}
+
+/*########## contact-proc.php ##########*/
+
+#messageSent {
+ 
+}
+
+/*######### about.php #############*/
+
+#about {
+   
+}
+
+#about p {
+ 
+}
+/*############ privacy.php #############*/
+
+#privacy {
+ 
+}
+
+#privacy p {
+
+}
+
+/*############ sitemap.php #############*/
+
+#siteMap {
+  
+}
+
+#siteMap ul li {
+  
+}
+
+
+/* ######### media query ########### */
+
+@media only screen and (max-width: 960px) {
+    
+    .container {
+ 
+    }
+    
+    main {
+       
+    }
+    
+    main img {
+     
+    }
+    
+    aside img {
+   
+    }
+    
+    .ranks li {
+  
+    }
+    
+    #ranksMain {
+    
+    }
+    
+    #ranksAside {
+      
+    }
+    
+    /* ############# nav.php ############# */
+    
+    .burger {
+        
+    }
+    
+    #nav {
+    
+    }
+    
+    #nav ul li { /* the individual nav list items */
+   
+    }
+    
+    #nav ul li a:hover {
+        
+    }
+    
+    .footer ul li a {
+      
+    }
+    
+    .footer ul li a:hover {
+       
+    }
+    
+} /* end media query */
